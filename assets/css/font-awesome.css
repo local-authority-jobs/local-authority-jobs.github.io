@@ -668,6 +668,9 @@
 .fa-hand-o-down:before {
   content: "\f0a7";
 }
+.fa-handshake-o:before {
+  content: "\f2b5";
+}
 .fa-arrow-circle-left:before {
   content: "\f0a8";
 }
